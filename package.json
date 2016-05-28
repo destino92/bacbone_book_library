@@ -14,7 +14,9 @@
   "homepage": "https://github.com/destino92/bacbone_book_library#readme",
   "devDependencies": {
     "body-parser": "^1.15.1",
+    "errorhandler": "^1.4.3",
     "express": "^4.13.4",
+    "method-override": "^2.3.6",
     "mongoose": "^4.4.19",
     "path": "^0.12.7"
   }
