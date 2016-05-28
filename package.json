@@ -1,0 +1,21 @@
+{
+  "name": "backbone_book_library",
+  "version": "0.0.1",
+  "description": "A simple book library single page application using Backbone",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/destino92/bacbone_book_library.git"
+  },
+  "author": "Destino Dello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/destino92/bacbone_book_library/issues"
+  },
+  "homepage": "https://github.com/destino92/bacbone_book_library#readme",
+  "devDependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.19",
+    "path": "^0.12.7"
+  }
+}
